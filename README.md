@@ -44,3 +44,6 @@ Model Graph:
 
 
 Result:
+<img width="961" height="901" alt="Screenshot 2025-09-25 140530" src="https://github.com/user-attachments/assets/a89cce3e-c6c5-4f91-b9c7-54ebebf50598" />
+<img width="973" height="906" alt="Screenshot 2025-09-25 140407" src="https://github.com/user-attachments/assets/fbb6c12c-9027-453a-84d8-4eeb3e1eb246" />
+
